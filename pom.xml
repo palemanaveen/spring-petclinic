@@ -5,8 +5,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.springframework.samples</groupId>
   <artifactId>spring-petclinic</artifactId>
+   <package>war</package>
   <version>2.1.0.BUILD-SNAPSHOT</version>
-  <package>war</package>
+
 
   <parent>
     <groupId>org.springframework.boot</groupId>
